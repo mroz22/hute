@@ -28,7 +28,7 @@ export const Point = (props: PointProps) => {
     const [inputState, setInputState] = useState<undefined | 'success' | 'error'>()
 
     const submitCode = useCallback(async () => {
-        if (code === inputCode || "test") {
+        if (code === inputCode || inputCode === "test") {
             setInputState('success');
 
             const pointRef = doc(db, "points", id);
@@ -40,8 +40,6 @@ export const Point = (props: PointProps) => {
             setInputState('error');
         }
         setInputCode('')
-
-
     }, [code, inputCode, id]);
 
     useEffect(() => {
