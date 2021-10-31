@@ -9,6 +9,7 @@ export const Name = styled.div`
     border: 1px dashed gray;
     display: flex;
     justify-content: space-between;
+    cursor: pointer;
 `;
 
 export const Body = styled.div`

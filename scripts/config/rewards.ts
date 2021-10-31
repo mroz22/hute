@@ -21,9 +21,14 @@ export const REWARDS: Reward[] = [
         description: 'Na tomto miste se budou objevovat informace o patrolach cholery',
         cost: 3,
     },
-    // {
-    //     name: '',
-    //     description: '',
-    //     cost: 3,
-    // },
+    {
+        name: 'Bedna s granatama',
+        description: 'Na tomto miste se nachazi bedna s hadrovyma koulema (granaty). Zasah hadrovou kouli vyradi protivnika ze hry.',
+        cost: 4,
+    },
+    {
+        name: 'Grande Finale',
+        description: 'Na kote triangl se setkejte s velicim dustojnikem odboje a provedte sabotaz na zakladne Stare Hute podle jeho instrukci',
+        cost: 21,
+    },
 ]
