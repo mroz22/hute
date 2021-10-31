@@ -1,6 +1,5 @@
-import { useEffect, useState, useMemo, useCallback } from "react";
+import { useEffect, useState, useMemo } from "react";
 import { collection, query, onSnapshot } from "firebase/firestore";
-import styled from 'styled-components';
 
 import { Point, PointProps } from './Point';
 import { Reward, RewardProps } from './Reward';

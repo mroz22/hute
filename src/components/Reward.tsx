@@ -1,6 +1,3 @@
-import { useState, useEffect } from 'react';
-import styled from 'styled-components';
-
 import { Wrapper, Name, Body } from './Box';
 import type { Reward as RewardBase } from '../types';
 

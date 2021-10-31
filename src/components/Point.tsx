@@ -22,9 +22,6 @@ const Input = styled.input`
 
 const Button = styled.button``;
 
-
-
-
 export const Point = (props: PointProps) => {
     const { id, name, description, code, resolved, onSetExpanded, expanded } = props;
     const [inputCode, setInputCode] = useState('');
@@ -45,7 +42,7 @@ export const Point = (props: PointProps) => {
         setInputCode('')
 
 
-    }, [code, code]);
+    }, [code, inputCode, id]);
 
     useEffect(() => {
         setTimeout(() => {
