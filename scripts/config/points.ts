@@ -51,88 +51,222 @@ export const POINTS: Point[] = [
         resolved: false,
     },
     {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
+        name: 'Most vedle Al-Nasralláhovy dači',
+        description: 'Pod mostem vedle Al-Nasralláhovy dači hledejte schované kódové označení.', 
+        geo: '49.1400325N, 17.2910400E',
+        code: 'ohnostroj',
         resolved: false,
     },
     {
-        name: '31531',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        geo: '49.1445072N, 17.2869114E',
-        code: '',
-        resolved: false,
-    },
+
+    name: 'Dub na mape pod Barborkou',
+
+    description: '',
+
+    geo: ’49.1050839 N,
+    17.3234144 E’,
+
+    code: '',
+
+    resolved: false,
+
+},
+
+{
+
+    name: 'Buchlov',
+
+    description: 'muzeum lesnictví a myslivosti  na cestě na Buchlov',
+
+    geo: ’49.1141592 N,
+    17.3016294 E’,
+
+    code: '',
+
+    resolved: false,
+
+},
+
+{
+
+    name: 'rozcestník nové louky (44/45 - 69/70)',
+
+    description: '',
+
+    geo: ’49.1307783 N,
+    17.3170978 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'posed jelení louka',
+
+    description: '',
+
+    geo: ’49.1377492 N,
+    17.2943339 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'rozcestník pod mořdířkou',
+
+    description: '',
+
+    geo: ’49.1462733 N,
+    17.2704514 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'tomeškův db',
+
+    description: '',
+
+    geo: ’49.1241236 N,
+    17.2875989 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'pomník u padlých',
+
+    description: '',
+
+    geo: ’49.1499125 N,
+    17.3314958 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'první most na mapě u sh směrem ze stupavy',
+
+    description: '',
+
+    geo: ’49.1256786 N,
+    17.2678150 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'zastávka staré hutě',
+
+    description: '',
+
+    geo: ’49.1255419 N,
+    17.2781306 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'sklep u malíkovi lípy',
+
+    description: '',
+
+    geo: ’49.1389361 N,
+    17.2864992 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'samota',
+
+    description: '',
+
+    geo: ’49.1374575 N,
+    17.2482361 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'dubový díl',
+
+    description: '',
+
+    geo: ’49.1304308 N,
+    17.3352361 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'zikmundov rybník',
+
+    description: '49.1297886N, 17.2910869E',
+
+    geo: ’’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'malý buchlovšutr',
+
+    description: '49.1368200N, 17.3017731E',
+
+    geo: ’’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: 'diana',
+
+    description: '',
+
+    geo: ’49.1454472 N,
+    17.3053417 E’,
+
+    code: '',
+
+    resolved: false,
+
+}, {
+
+    name: '',
+
+    description: '',
+
+    geo: ’’,
+
+    code: '',
+
+    resolved: false,
+
+},,
     {
         name: '',
         description: '',
