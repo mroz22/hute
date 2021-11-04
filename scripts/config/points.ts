@@ -51,14 +51,14 @@ export const POINTS: Point[] = [
         resolved: false,
     },
     {
-        name: 'dds',
+        name: '',
         description: '',
         geo: '49.1445072N, 17.2869114E',
         code: '',
         resolved: false,
     },
     {
-        name: '',
+        name: '31531',
         description: '',
         geo: '49.1445072N, 17.2869114E',
         code: '',
