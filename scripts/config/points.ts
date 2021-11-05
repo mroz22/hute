@@ -33,8 +33,8 @@ export const POINTS: Point[] = [
         resolved: false,
     },
     {
-        name: 'Altanek Buchlov Sutr',
-        description: 'Buchlovsky Kamen, hledej altanek na louce.',
+        name: 'Ta mensi brana do pekel',
+        description: 'maly buchlovsky Kamen, mala skvira',
         geo: '49.1360706N, 17.2999897E',
         code: 'bolest',
         resolved: false,
