@@ -96,7 +96,7 @@ export const POINTS: Point[] = [
     }, {
 
         name: 'Vzdej hold',
-        description: 'V okolí Salaše, hledej místo s odkazem na hrdinné partyzány. "U padlých."',
+        description: 'V okolí Salaše, hledej místo s odkazem na hrdinné partyzány. "U padlých." Pres cestu naproti mohyle v altanku.',
         geo: '49.1499125 N, 17.3314958 E',
         code: '90210',
         resolved: false,
@@ -106,9 +106,7 @@ export const POINTS: Point[] = [
         geo: '49.1256786 N, 17.2678150 E',
         code: 'glabazna',
         resolved: false,
-
     }, {
-
         name: 'Stop please',
         description: 'Cestou z brna vyhodil důstojník naší rozvědky na zastávku tajnou depeši. Zastávka u E50',
         geo: '49.1255419 N, 17.2781306 E',
