@@ -134,7 +134,7 @@ export const POINTS: Point[] = [
     }, {
         name: 'Staré hutě, zásobování',
         description: 'Na starých hutích za obchodem. Hledej',
-        geo: '',
+        geo: '49.1330950N, 17.2798044E',
         code: 'kunovjan',
         resolved: false,
     }
