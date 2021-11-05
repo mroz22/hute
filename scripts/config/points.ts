@@ -5,49 +5,45 @@ export const POINTS: Point[] = [
         name: 'Prototyp zakopu',
         description: 'Prozkoumejte prototyp pechotniho zakopu. Nachazi se v oblasti latrin na zakladne Stare Hute',
         geo: '49.1399306N, 17.2896453E',
-        code: '',
+        code: 'upadek',
         resolved: false,
     },
     {
         name: 'Sklipek na brambory',
-        description: 'Za potokem na Hutich smerem na hladnou vodu je sklipek na brambory.',
+        description: 'Za potokem na Hutich smerem na hladnou vodu je sklipek na brambory. Nachází se poblíž Malákovi lípy.',
         geo: '49.1396081N, 17.2860458E',
-        code: '',
+        code: 'prehistorik',
         resolved: false,
     },
     {
-        name: 'Malikova lipa',
-        description: 'Lipa nachazejici se na brehu potoka Kyjovky na severnim okraji obce Stare Hute',
-        geo: '49.1392008N, 17.2869528E',
-        code: '',
-        resolved: false,
+        
     },
     {
         name: 'Vysilac Vlcak',
         description: 'Za vysilacem',
         geo: '49.1603731N, 17.2786983E',
-        code: '',
+        code: 'hafhaf',
         resolved: false,
     },
     {
         name: 'Kaple svateho Jana Nepomuckeho',
         description: 'Kaple svateho Jana Nepomuckeho na Salasi. Z boku na hrbitovni zdi',
         geo: '49.1389342N, 17.3428675E',
-        code: '',
+        code: 'Vltava',
         resolved: false,
     },
     {
         name: 'Altanek Buchlov Sutr',
-        description: 'Buchlovsky Kamen, altanek na louce.',
+        description: 'Buchlovsky Kamen, hledej altanek na louce.',
         geo: '49.1360706N, 17.2999897E',
-        code: '',
+        code: 'bolest',
         resolved: false,
     },
     {
         name: 'Hajovna na Hladne vode',
-        description: 'Ze zadu za hajovnou',
+        description: 'Ze zadu za hajovnou.',
         geo: '49.1445072N, 17.2869114E',
-        code: '',
+        code: 'hungry water',
         resolved: false,
     },
     {
@@ -63,8 +59,11 @@ export const POINTS: Point[] = [
 
         description: 'Na vaší mapě naleznete pod bodem Sv. Barborky dub, ležící na červené stezce. Za ním hledejte a najdete.',
 
-        geo: '49.1050839 N, 17.3234144 E',
-        code: '',
+        geo: '49.1050839 N,
+    17.3234144 E',
+
+    code: 'kolibrik',
+
         resolved: false,
 
     },
@@ -73,10 +72,12 @@ export const POINTS: Point[] = [
 
         name: 'Buchlov',
 
-        description: 'Muzeum lesnictví a myslivosti  na cestě na Buchlov',
+        description: 'Muzeum lesnictví a myslivosti. Směrem od buchlova po cestě, první roh plotu u silnice. Hledej tam.',
 
-        geo: '49.1141592 N, 17.3016294 E',
-        code: '',
+        geo: '49.1141592 N,
+    17.3016294 E',
+
+    code: 'pila',
 
         resolved: false,
 
@@ -92,16 +93,16 @@ export const POINTS: Point[] = [
 
     }, {
 
-        name: 'posed jelení louka',
-        description: '',
+        name: 'Beobachtung stelle',
+        description: 'Na jelení louce, hledej palební pozici v mysliveckém posedu. Jistě někde při zemi.',
         geo: '49.1377492 N, 17.2943339 E',
-        code: 'tomahawk',
+        code: 'kuratko',
         resolved: false,
 
     }, {
 
-        name: 'rozcestník pod mořdířkou',
-        description: '',
+        name: 'Křižovatka cest',
+        description: 'rozcestník pod mořdířkou',
         geo: '49.1462733 N, 17.2704514 E',
         code: 'samuraj',
         resolved: false,
@@ -111,19 +112,19 @@ export const POINTS: Point[] = [
         name: 'tomeškův db',
         description: '',
         geo: '49.1241236 N, 17.2875989 E',
-        code: 'kuratko',
+        code: 'tomahawk',
         resolved: false,
 
     }, {
 
-        name: 'pomník u padlých',
-        description: '',
+        name: 'Vzdej hold',
+        description: 'V okolí Salaše, hledej místo s odkazem na hrdinné partyzány. "U padlých."',
         geo: '49.1499125 N, 17.3314958 E',
         code: '90210',
         resolved: false,
     }, {
 
-        name: 'první most na mapě u sh směrem ze stupavy',
+        name: 'Podmostí',
         description: '',
         geo: '49.1256786 N, 17.2678150 E',
         code: 'glabazna',
@@ -158,8 +159,8 @@ export const POINTS: Point[] = [
         resolved: false,
     }, {
         name: 'zikmundov rybník',
-        description: '49.1297886N, 17.2910869E',
-        geo: '',
+        description: , ''
+        geo: ''49.1297886N, 17.2910869E',
         code: 'ropucha',
         resolved: false,
     }, {
@@ -176,8 +177,8 @@ export const POINTS: Point[] = [
         resolved: false,
 
     }, {
-        name: '',
-        description: '',
+        name: 'Staré hutě, zásobování',
+        description: 'Na starých hutích za obchodem. Hledej',
         geo: '',
         code: 'kunovjan',
         resolved: false,
