@@ -28,7 +28,7 @@ export const Point = (props: PointProps) => {
     const [inputState, setInputState] = useState<undefined | 'success' | 'error'>()
 
     const submitCode = useCallback(async () => {
-        if (code === inputCode || inputCode === "test") {
+        if (code === inputCode.toLocaleLowerCase()) {
             setInputState('success');
 
             const pointRef = doc(db, "points", id);
