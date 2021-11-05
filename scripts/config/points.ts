@@ -24,7 +24,7 @@ export const POINTS: Point[] = [
     },
     {
         name: 'Kaple svateho Jana Nepomuckeho',
-        description: 'Kaple svateho Jana Nepomuckeho na Salasi. Z boku na hrbitovni zdi',
+        description: 'Kaple svateho Jana Nepomuckeho na Salasi. Velky kontejner pred branou.',
         geo: '49.1389342N, 17.3428675E',
         code: 'Vltava',
         resolved: false,
@@ -87,9 +87,8 @@ export const POINTS: Point[] = [
         resolved: false,
 
     }, {
-
-        name: 'Tomeškův dUb',
-        description: 'DOPLNÍME',
+        name: 'Tomeškův dub',
+        description: 'U historickeho tomeskova dubu kde doslo k prvinm exekuci v chribske lidove demokraticke republice najdete dalsi zpravu',
         geo: '49.1241236 N, 17.2875989 E',
         code: 'tomahawk',
         resolved: false,
@@ -102,7 +101,6 @@ export const POINTS: Point[] = [
         code: '90210',
         resolved: false,
     }, {
-
         name: 'Podmostí',
         description: 'Na cestě mimo hlavní tah e50 ze Stupavy do Starých Hutí, jedná se o první značený most na Vaší mapě. Hledej asi pod.',
         geo: '49.1256786 N, 17.2678150 E',
