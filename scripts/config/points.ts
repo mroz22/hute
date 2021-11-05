@@ -10,7 +10,7 @@ export const POINTS: Point[] = [
     },
     {
         name: 'Sklipek na brambory',
-        description: 'Za potokem na Hutich smerem na hladnou vodu je sklipek na brambory. Nachází se poblíž Malákovi lípy.',
+        description: 'Za potokem na Hutich smerem na hladnou vodu je sklipek na brambory, tam bych hledal. Nachází se poblíž Malákovi lípy.',
         geo: '49.1396081N, 17.2860458E',
         code: 'prehistorik',
         resolved: false,
@@ -55,9 +55,9 @@ export const POINTS: Point[] = [
     },
     {
 
-        name: 'Dub na mape pod Barborkou',
+        name: 'Tředověké opevnění Buchov, bývalé sídlo vsetínského odboje',
 
-        description: 'Na vaší mapě naleznete pod bodem Sv. Barborky dub, ležící na červené stezce. Za ním hledejte a najdete.',
+        description: 'Kousek od buchlova naleznete velikou mapu u cesty, nejspíš najdete vzkaz u této mapy.',
 
         geo: '49.1050839 N,
     17.3234144 E',
@@ -70,7 +70,7 @@ export const POINTS: Point[] = [
 
     {
 
-        name: 'Buchlov',
+        name: 'Muzeum lesnictví, bývalé muzeum revoluce.',
 
         description: 'Muzeum lesnictví a myslivosti. Směrem od buchlova po cestě, první roh plotu u silnice. Hledej tam.',
 
@@ -102,7 +102,7 @@ export const POINTS: Point[] = [
     }, {
 
         name: 'Křižovatka cest',
-        description: 'rozcestník pod mořdířkou',
+        description: 'Pod mořdířkou. Na rozcestí cesty a odbočky k vrcholu na Mořdířku. Hledej u/mezi kládama.',
         geo: '49.1462733 N, 17.2704514 E',
         code: 'samuraj',
         resolved: false,
@@ -142,9 +142,9 @@ export const POINTS: Point[] = [
        
     }, {
         name: 'Motorest',
-        description: 'DOPLNÍME',
+        description: 'Motorest samota. Místa, kde se plánovala revoluce. Navíc první místo, kde byl v Chřibech postaven post. Hledejte na mostě.',
         geo: '49.1374575 N, 17.2482361 E',
-        code: 'pokladhledejzarozhlednou',
+        code: 'Na mostě.',
         resolved: false,
 
     }, {
@@ -161,7 +161,7 @@ export const POINTS: Point[] = [
         resolved: false,
     },  {
         name: 'Diana',
-        description: 'DOPLNIT',
+        description: 'Původní Nasralláhova chata. Dnes se jmenuje Diana. Na terase hledej vzkaz.',
         geo: '49.1454472 N, 17.3053417 E',
         code: 'desitka',
         resolved: false,
