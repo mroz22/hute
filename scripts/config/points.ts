@@ -63,11 +63,8 @@ export const POINTS: Point[] = [
 
         description: 'Na vaší mapě naleznete pod bodem Sv. Barborky dub, ležící na červené stezce. Za ním hledejte a najdete.',
 
-        geo: '49.1050839 N,
-    17.3234144 E',
-
-    code: '',
-
+        geo: '49.1050839 N, 17.3234144 E',
+        code: '',
         resolved: false,
 
     },
@@ -78,10 +75,8 @@ export const POINTS: Point[] = [
 
         description: 'Muzeum lesnictví a myslivosti  na cestě na Buchlov',
 
-        geo: '49.1141592 N,
-    17.3016294 E',
-
-    code: '',
+        geo: '49.1141592 N, 17.3016294 E',
+        code: '',
 
         resolved: false,
 
