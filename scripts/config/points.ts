@@ -16,9 +16,6 @@ export const POINTS: Point[] = [
         resolved: false,
     },
     {
-        
-    },
-    {
         name: 'Vysilac Vlcak',
         description: 'Za vysilacem',
         geo: '49.1603731N, 17.2786983E',
@@ -56,43 +53,25 @@ export const POINTS: Point[] = [
     {
 
         name: 'Tředověké opevnění Buchov, bývalé sídlo vsetínského odboje',
-
         description: 'Kousek od buchlova naleznete velikou mapu u cesty, nejspíš najdete vzkaz u této mapy.',
-
-        geo: '49.1050839 N,
-    17.3234144 E',
-
-    code: 'kolibrik',
-
+        geo: '49.1050839 N, 17.3234144 E',
+        code: 'kolibrik',
         resolved: false,
-
     },
-
     {
-
         name: 'Muzeum lesnictví, bývalé muzeum revoluce.',
-
         description: 'Muzeum lesnictví a myslivosti. Směrem od buchlova po cestě, první roh plotu u silnice. Hledej tam.',
-
-        geo: '49.1141592 N,
-    17.3016294 E',
-
-    code: 'pila',
-
+        geo: '49.1141592 N, 17.3016294 E',
+        code: 'pila',
         resolved: false,
-
     },
-
     {
-
         name: 'Rozcestník nové louky.',
         description: 'Na vaší mapě hledejte v kvadrantu 44/45 - 69/70. Tam, kde leží rozcestí fialové cesty a vede i žlutá, v oblasti Nová louka, najdete kódové označení, ktere hledate - v nejblizsi skruzi.',
         geo: '49.1307783 N, 17.3170978 E',
         code: 'marcipan',
         resolved: false,
-
     }, {
-
         name: 'Beobachtung stelle',
         description: 'Na jelení louce, hledej palební pozici v mysliveckém posedu. Jistě někde při zemi.',
         geo: '49.1377492 N, 17.2943339 E',
@@ -138,9 +117,6 @@ export const POINTS: Point[] = [
         code: 'severka',
         resolved: false,
     }, {
-
-       
-    }, {
         name: 'Motorest',
         description: 'Motorest samota. Místa, kde se plánovala revoluce. Navíc první místo, kde byl v Chřibech postaven post. Hledejte na mostě.',
         geo: '49.1374575 N, 17.2482361 E',
@@ -155,58 +131,21 @@ export const POINTS: Point[] = [
         resolved: false,
     }, {
         name: 'Zásoba vody',
-        description: , 'Zázemí na Zikmundově oplývá dvěma zásobníky na vodu - rybníčkama. Ten bližší je lepší. Na jeho břehu je altánek. V něm hledejta a najdete.'
-        geo: ''49.1297886N, 17.2910869E',
+        description: 'Zázemí na Zikmundově oplývá dvěma zásobníky na vodu - rybníčkama. Ten bližší je lepší. Na jeho břehu je altánek. V něm hledejta a najdete.',
+        geo: '49.1297886N, 17.2910869E',
         code: 'ropucha',
         resolved: false,
-    },  {
+    }, {
         name: 'Diana',
         description: 'Původní Nasralláhova chata. Dnes se jmenuje Diana. Na terase hledej vzkaz.',
         geo: '49.1454472 N, 17.3053417 E',
         code: 'desitka',
         resolved: false,
-
     }, {
         name: 'Staré hutě, zásobování',
         description: 'Na starých hutích za obchodem. Hledej',
         geo: '',
         code: 'kunovjan',
         resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        code: '',
-        resolved: false,
-    },
-    {
-        name: '',
-        description: '',
-        code: '',
-        resolved: false,
-    },
+    }
 ]
