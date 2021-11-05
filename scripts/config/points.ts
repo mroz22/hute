@@ -86,7 +86,7 @@ export const POINTS: Point[] = [
     {
 
         name: 'Rozcestník nové louky.',
-        description: 'Na vaší mapě hledejte v kvadrantu 44/45 - 69/70. Tam, kde leží rozcestí fialové cesty a vede i žlutá, v oblasti Nová louka, najdete kódové označení, které hledáte.',
+        description: 'Na vaší mapě hledejte v kvadrantu 44/45 - 69/70. Tam, kde leží rozcestí fialové cesty a vede i žlutá, v oblasti Nová louka, najdete kódové označení, ktere hledate - v nejblizsi skruzi.',
         geo: '49.1307783 N, 17.3170978 E',
         code: 'marcipan',
         resolved: false,
@@ -149,7 +149,7 @@ export const POINTS: Point[] = [
 
     }, {
         name: 'Partyzánský přístřešek.',
-        description: 'Blízko salaše hledejte stanoviště partyzánu. Kódové označneí Dubový díl. Někde zezadu??',
+        description: 'Blízko salaše hledejte stanoviště partyzánu. Kódové označneí Dubový díl - zespod stolu v altanu.',
         geo: '49.1304308 N, 17.3352361 E',
         code: 'marlboro',
         resolved: false,
