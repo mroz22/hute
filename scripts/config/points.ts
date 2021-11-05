@@ -26,7 +26,7 @@ export const POINTS: Point[] = [
         name: 'Kaple svateho Jana Nepomuckeho',
         description: 'Kaple svateho Jana Nepomuckeho na Salasi. Velky kontejner pred branou.',
         geo: '49.1389342N, 17.3428675E',
-        code: 'Vltava',
+        code: 'vltava',
         resolved: false,
     },
     {
@@ -78,26 +78,22 @@ export const POINTS: Point[] = [
         resolved: false,
 
     }, {
-
         name: 'Křižovatka cest',
         description: 'Pod mořdířkou. Na rozcestí cesty a odbočky k vrcholu na Mořdířku. Hledej u/mezi kládama.',
         geo: '49.1462733 N, 17.2704514 E',
         code: 'samuraj',
         resolved: false,
-
     }, {
         name: 'Tomeškův dub',
         description: 'U historickeho tomeskova dubu kde doslo k prvinm exekuci v chribske lidove demokraticke republice najdete dalsi zpravu',
         geo: '49.1241236 N, 17.2875989 E',
         code: 'tomahawk',
         resolved: false,
-
     }, {
-
         name: 'Vzdej hold',
         description: 'V okolí Salaše, hledej místo s odkazem na hrdinné partyzány. "U padlých." Pres cestu naproti mohyle v altanku.',
         geo: '49.1499125 N, 17.3314958 E',
-        code: '90210',
+        code: 'severka',
         resolved: false,
     }, {
         name: 'Podmostí',
@@ -107,17 +103,16 @@ export const POINTS: Point[] = [
         resolved: false,
     }, {
         name: 'Stop please',
-        description: 'Cestou z brna vyhodil důstojník naší rozvědky na zastávku tajnou depeši. Zastávka u E50',
+        description: 'Cestou z brna vyhodil důstojník naší rozvědky na zastávku tajnou depeši. Zastávka u E50 nad Staryma Hutema ve smeru na Brno.',
         geo: '49.1255419 N, 17.2781306 E',
-        code: 'severka',
+        code: '90210',
         resolved: false,
     }, {
         name: 'Motorest',
         description: 'Motorest samota. Místa, kde se plánovala revoluce. Navíc první místo, kde byl v Chřibech postaven post. Hledejte na mostě.',
         geo: '49.1374575 N, 17.2482361 E',
-        code: 'Na mostě.',
+        code: 'DOPLNIT',
         resolved: false,
-
     }, {
         name: 'Partyzánský přístřešek.',
         description: 'Blízko salaše hledejte stanoviště partyzánu. Kódové označneí Dubový díl - zespod stolu v altanu.',
