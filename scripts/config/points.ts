@@ -51,9 +51,8 @@ export const POINTS: Point[] = [
         resolved: false,
     },
     {
-
-        name: 'Tředověké opevnění Buchov, bývalé sídlo vsetínského odboje',
-        description: 'Kousek od buchlova naleznete velikou mapu u cesty, nejspíš najdete vzkaz u této mapy.',
+        name: 'Středověké opevnění Buchlov',
+        description: 'Středověké opevnění Buchlov, bývalé sídlo vsetínského odboje. Kousek od buchlova naleznete velikou mapu u cesty, nejspíš najdete vzkaz u této mapy.',
         geo: '49.1050839 N, 17.3234144 E',
         code: 'kolibrik',
         resolved: false,
