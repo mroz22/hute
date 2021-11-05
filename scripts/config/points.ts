@@ -109,8 +109,8 @@ export const POINTS: Point[] = [
 
     }, {
 
-        name: 'tomeškův db',
-        description: '',
+        name: 'Tomeškův dUb',
+        description: 'DOPLNÍME',
         geo: '49.1241236 N, 17.2875989 E',
         code: 'tomahawk',
         resolved: false,
@@ -125,53 +125,43 @@ export const POINTS: Point[] = [
     }, {
 
         name: 'Podmostí',
-        description: '',
+        description: 'Na cestě mimo hlavní tah e50 ze Stupavy do Starých Hutí, jedná se o první značený most na Vaší mapě. Hledej asi pod.',
         geo: '49.1256786 N, 17.2678150 E',
         code: 'glabazna',
         resolved: false,
 
     }, {
 
-        name: 'zastávka staré hutě',
-        description: '',
+        name: 'Stop please',
+        description: 'Cestou z brna vyhodil důstojník naší rozvědky na zastávku tajnou depeši. Zastávka u E50',
         geo: '49.1255419 N, 17.2781306 E',
         code: 'severka',
         resolved: false,
     }, {
 
-        name: 'sklep u malíkovi lípy',
-        description: '',
-        geo: '49.1389361 N, 17.2864992 E',
-        code: 'hurvinek',
-        resolved: false,
+       
     }, {
-        name: 'samota',
-        description: '',
+        name: 'Motorest',
+        description: 'DOPLNÍME',
         geo: '49.1374575 N, 17.2482361 E',
         code: 'pokladhledejzarozhlednou',
         resolved: false,
 
     }, {
-        name: 'dubový díl',
-        description: '',
+        name: 'Partyzánský přístřešek.',
+        description: 'Blízko salaše hledejte stanoviště partyzánu. Kódové označneí Dubový díl. Někde zezadu??',
         geo: '49.1304308 N, 17.3352361 E',
         code: 'marlboro',
         resolved: false,
     }, {
-        name: 'zikmundov rybník',
-        description: , ''
+        name: 'Zásoba vody',
+        description: , 'Zázemí na zikmundově oplývá dvěma zásobníky na vody. Ten bližší je lepší. Na jeho břehu hledejte. Najdete.'
         geo: ''49.1297886N, 17.2910869E',
         code: 'ropucha',
         resolved: false,
-    }, {
-        name: 'malý buchlovšutr',
-        description: '49.1368200N, 17.3017731E',
-        geo: '',
-        code: 'Josef',
-        resolved: false,
-    }, {
-        name: 'diana',
-        description: '',
+    },  {
+        name: 'Diana',
+        description: 'DOPLNIT',
         geo: '49.1454472 N, 17.3053417 E',
         code: 'desitka',
         resolved: false,
