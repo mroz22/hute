@@ -16,7 +16,7 @@ export const Reward = (props: RewardProps) => {
         <Wrapper resolved={resolved}>
             <Name onClick={() => onSetExpanded(expanded ? '' : name)}>
                 <span>{name}</span>
-                <span>{cost} z {Math.max(solvedNumber, cost)}</span>
+                <span>{solvedNumber} z {Math.max(solvedNumber, cost)}</span>
 
             </Name>
             {
