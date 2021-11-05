@@ -155,7 +155,7 @@ export const POINTS: Point[] = [
         resolved: false,
     }, {
         name: 'Zásoba vody',
-        description: , 'Zázemí na zikmundově oplývá dvěma zásobníky na vody. Ten bližší je lepší. Na jeho břehu hledejte. Najdete.'
+        description: , 'Zázemí na Zikmundově oplývá dvěma zásobníky na vodu - rybníčkama. Ten bližší je lepší. Na jeho břehu je altánek. V něm hledejta a najdete.'
         geo: ''49.1297886N, 17.2910869E',
         code: 'ropucha',
         resolved: false,
